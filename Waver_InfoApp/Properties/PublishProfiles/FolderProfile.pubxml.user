@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Waver_InfoApp\WaverPublish5</_PublishTargetUrl>
+    <History>True|2021-06-28T10:49:52.5101490Z;True|2021-06-24T11:07:06.6630499+06:00;True|2021-06-22T17:24:10.7317701+06:00;True|2021-06-22T16:27:15.7106159+06:00;True|2021-06-21T18:54:16.8241647+06:00;</History>
+  </PropertyGroup>
+</Project>
